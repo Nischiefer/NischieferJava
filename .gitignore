@@ -1,0 +1,27 @@
+
+# Java compiled files
+*.class
+
+# Java build folders
+bin/
+target/
+build/
+
+# Eclipse / Spring Tool Suite settings
+.metadata/
+.settings/
+.project
+.classpath
+
+# IntelliJ
+.idea/
+*.iml
+
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+Desktop.ini
